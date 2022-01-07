@@ -86,3 +86,5 @@ for (array in array2) {
     document.write(array2[array] + "<br>")
 
 }
+
+//prueba de git con termux 
