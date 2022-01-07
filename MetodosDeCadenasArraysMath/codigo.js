@@ -32,6 +32,7 @@ let nombres = [0,1,2,3,4,5,6];
 //let resultado = nombres.shift(); //Saca el primer elemento de un array y lo devuelve
 //let resultado = nombres.push("Fernando");//Inserta un nuevo valor en el array y nos devuelve el numero de valores en el array
 //let resultado = nombres.reverse(); //Invierte y devuelve el array 
+//let resultado = nombres.inludes(0);
  //nombres.unshift("Luis","marco"); //Agrega uno o mas elementos al inicio del array y lo devuelve
  //let resultado = nombres.sort();//Oredena un arreglo ya sea por orden alfabetico o numerico
 //nombres.splice(1,3,"Nuevo");//splice(inicia,acaba,reemplaza el inicio) pero si no hay nada que reemplazar los elmina
